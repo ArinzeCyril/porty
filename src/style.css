@@ -22,7 +22,6 @@ body {
   #profile_text {
     font-weight: 700;
     font-size: 20px;
-    /* font-size: 1.66rem; */
     line-height: 30px;
     color: #101828;
     flex: none;
@@ -37,4 +36,23 @@ body {
   
   #twitter {
     margin: 0;
+  }
+
+  #twitter, #btn_zuri, #books, #book_python, #pitch, #book__design {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+    width: 100%;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #101828;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding: 2rem 1rem;
+    background: #EAECF0;
+    border: 1px solid #EAECF0;
+    border-radius: 8px;
   }

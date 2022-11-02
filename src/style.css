@@ -69,3 +69,20 @@ body {
   #SM > img {
     width: 1.5rem;
   }
+
+  footer {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+    color: #667085;
+    padding: 4rem 0 1rem;
+  }
+
+  #zuripix {
+    width: 8.7rem;
+  }
+
+  #i4gpix {
+    width: 6.2rem;
+  }

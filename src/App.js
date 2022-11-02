@@ -13,7 +13,6 @@ export default function App() {
 
         <p id="twitter">Twitter Link</p>
         <p id="slack">ArinzeCyril</p>
-        {/* <div className="a">dfgdf</div> */}
         <a href="https://training.zuri.team/" id="btn_zuri">Zuri Team</a>
         <a href="http://books.zuri.team" id="books">Zuri Books <sub>This is where you will find books on design and coding</sub></a>
         <a href="https://books.zuri.team/python-for-beginners?ref_id=ArinzeCyril" id="book_python">Python Books <sub>Do you wish to learn Python? this is the best place to start</sub></a>

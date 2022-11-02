@@ -13,3 +13,20 @@ body {
     align-items: center;
     gap: 1rem;
   }
+
+  #profile_img {
+    border-radius: 10rem;
+    width: 6rem;
+  }
+  
+  #profile_text {
+    font-weight: 700;
+    font-size: 20px;
+    /* font-size: 1.66rem; */
+    line-height: 30px;
+    color: #101828;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+    margin: 0;
+  }

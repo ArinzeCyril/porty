@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/porty/static/css/main.25750f20.css",
-    "main.js": "/porty/static/js/main.15cb5e6a.js",
+    "main.js": "/porty/static/js/main.e27aeeea.js",
     "static/js/787.097b01b4.chunk.js": "/porty/static/js/787.097b01b4.chunk.js",
     "static/media/profile__img.png": "/porty/static/media/profile__img.c42f5944ea49abfdfc66.png",
     "index.html": "/porty/index.html",
     "main.25750f20.css.map": "/porty/static/css/main.25750f20.css.map",
-    "main.15cb5e6a.js.map": "/porty/static/js/main.15cb5e6a.js.map",
+    "main.e27aeeea.js.map": "/porty/static/js/main.e27aeeea.js.map",
     "787.097b01b4.chunk.js.map": "/porty/static/js/787.097b01b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25750f20.css",
-    "static/js/main.15cb5e6a.js"
+    "static/js/main.e27aeeea.js"
   ]
 }

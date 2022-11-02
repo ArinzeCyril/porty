@@ -11,7 +11,7 @@ export default function App() {
         <img id="profile_img" src={ProfilePix} alt="profile" />
         <h2 id='profile_text'>Annette Black</h2>
 
-        <p id="twitter">Twitter Link</p>
+        <p id="twitter">@ArinzeCyril</p>
         <p id="slack">ArinzeCyril</p>
         <a href="https://training.zuri.team/" id="btn_zuri">Zuri Team</a>
         <a href="http://books.zuri.team" id="books">Zuri Books <sub>This is where you will find books on design and coding</sub></a>
